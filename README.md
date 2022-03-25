@@ -15,6 +15,8 @@ The `release/` folder will have a compiled jar file.
 The commit button will run a git commit with no argunents.
 (this will open whatever text editor you use for `core.editor`)
 
+Note to devs:
+Do not push over mobile data!
 
 ### TODO
 - [ ] Create window
