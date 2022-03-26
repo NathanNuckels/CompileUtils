@@ -19,18 +19,15 @@ Note to devs:
 Do not push over mobile data!
 
 ### TODO
-- [ ] Create window
-- [ ] Menu
-	- [ ] File
-		- [ ] New project
-			- [ ] New project window
-		- [ ] Open project
-			- [ ] File open dialog
-		- [ ] Set remote
-		- [ ] Quit
-	- [ ] Git
-		- [ ] Commit
-		- [ ] Commit with message...
-		- [ ] Push
-- [ ] Backend
-	- [ ] 
+
+- [x] New project button
+	- [x] Action listener
+	- [ ] Dialog box
+- [ ] Build button
+	- [ ] Action listener
+	- [ ] Dialog box
+- [ ] Commit button
+	- [ ] Action listener
+	- [ ] Dialog box
+- [ ] Push button
+	- [ ] Action listener
