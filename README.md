@@ -20,11 +20,12 @@ Do not push over mobile data!
 
 ### TODO
 
-- [x] New project button
-	- [x] Action listener
+- [ ] New project button
+	- [ ] Action listener
 	- [ ] Dialog box
 - [ ] Build button
 	- [ ] Action listener
+	- [ ] Get Process output
 	- [ ] Dialog box
 - [ ] Commit button
 	- [ ] Action listener
